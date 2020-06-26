@@ -1,11 +1,11 @@
 import React from 'react';
 // import './App.css';
-import HookCounter4 from "./Components/Hooks/HookCounter4";
+import UseEffect2 from "./Components/Hooks/UseEffect2";
 
 function App() {
   return (
     <div> 
-      <HookCounter4 />
+      <UseEffect2 />
     </div>
   );
 }
